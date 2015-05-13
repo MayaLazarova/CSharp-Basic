@@ -1,0 +1,12 @@
+
+namespace _04.SquareRoots
+{
+    class SquareRoots
+    {
+        static void Main()
+        {
+            int number = 12345;
+            System.Console.WriteLine(number);
+        }
+    }
+}
